@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/198fb307-a6c3-41e4-81dd-8fc8b486fc48" width="100%" alt="banner"/>
+  <img src="https://github.com/user-attachments/assets/a25231bb-ba32-4c2a-b9c6-86c9f3bbd244" width="100%" alt="creative-tech-banner"/>
 </p>
 
-# 💪 Sup y'all — Erik here!
+# 👋 Erik here!
 
 Creative technologist working across **AI, automation, real-time interactive systems, and 3D computer graphics**.  
 I build tooling at the intersection of **audio, geometry, and human experience**, transforming complex signals into interactive digital systems.
@@ -13,14 +13,13 @@ I build tooling at the intersection of **audio, geometry, and human experience**
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%203D%20%7C%20Automation-purple"/>
 </p>
 
-
 ---
 
 ## 🔥 Focus Areas
 - AI engineering · Agents · RAG
-- Workflow automation (n8n · LangChain)
 - Real-time 3D · audio-reactive systems
-- Creative pipelines: modeling · rendering · technical art
+- Workflow automation (n8n · LangChain)
+- Technical art · modeling · rendering
 - Game tech + modding (Dragon Engine · UE4 · Source)
 - Systems thinking
 - Cybersecurity fundamentals
@@ -29,38 +28,34 @@ I build tooling at the intersection of **audio, geometry, and human experience**
 
 ## 🚀 Highlights
 
-### ErikGaren — 3D Interactive Portfolio  | repo - https://github.com/Hawaiiiiii/erikgaren-portfolio
-Immersive 3D environment featuring day/night themes, audio-reactive elements, playable instruments, and interactive project showcases.  
-Built with custom GLTF assets, DRACO compression, and real-time rendering.  
+### ErikGaren — 3D Interactive Portfolio · <sub>[repo](https://github.com/Hawaiiiiii/erikgaren-portfolio)</sub>  
+Immersive 3D environment with day/night themes, interactive instruments, and project showcases.  
 > Three.js · GSAP · Howler.js · SCSS · Vite
 
 ---
 
-### Ink & Soul — Studio Portfolio + Bookings  | repo - https://github.com/Hawaiiiiii/Ink-Soul
-Web platform for a tattoo studio with appointment scheduling + admin dashboard.  
-> Next.js · Stripe · Supabase  
+### Ink & Soul — Studio Portfolio + Bookings · <sub>[repo](https://github.com/Hawaiiiiii/Ink-Soul)</sub>  
+Next.js storefront with booking + admin tooling.  
+> Next.js · Stripe · Supabase
 
 ---
 
-### OR.BIS — Real-Time 3D Audio Visualizer  | repo - https://github.com/CODIGOAFRX/proyecto_integrado_main
-Transforms FFT / LUFS spectral data into evolving organic geometry for live + interactive contexts.  
-> Python · Three.js · CRIWARE ADX  
+### OR.BIS — Real-Time 3D Audio Visualizer · <sub>[repo](https://github.com/CODIGOAFRX/proyecto_integrado_main)</sub>  
+FFT / LUFS → evolving 3D geometry for live + interactive contexts.  
+> Python · Three.js · CRIWARE ADX
 
 ---
 
-
-### Ryūga Sound Studio (龍雅サウンドスタジオ) — Audio Tooling for Dragon Engine *(in progress)*  
-Ongoing work prototyping audio workflow tools for Like a Dragon / Yakuza titles (Dragon Engine).  
-Includes experiments with ACB/AWB extraction + BepInEx integration.  
+### Ryūga Sound Studio (龍雅サウンドスタジオ) — Audio Tooling *(in progress)*  
+Pipeline + extraction research for Like a Dragon / Yakuza titles (Dragon Engine).  
 > Python · C# · C++ · BepInEx
 
 ---
 
-
 ### FinanzIA — AI-Driven Personal Finance Assistant  
-Automation-focused system developed during a professional internship.  
-~80% workflow automation · 100/100 PageSpeed · agent-assisted + cybersecurity-aware design.  
-> Python · JavaScript · LangChain · n8n · GPT-5  
+~80% workflow automation · 100/100 PageSpeed · cybersecurity-aware design.  
+> Python · JavaScript · LangChain · n8n · GPT-5
+
 ---
 
 ## 🛠️ Core Stack
@@ -72,22 +67,28 @@ Python · JavaScript · Java · PHP · C · C++
 LangChain · n8n · Docker · Playwright · Git/GitHub
 
 **3D + Engines**  
-Three.js · Blender · Maya · UE4 · Source · BepInEx
+Three.js · Blender · Maya · UE4 · Source · Dragon Engine
 
 **Web**  
-HTML · CSS  
+HTML5 · CSS
 
 ---
 
 ## 📌 Currently
-- Iterating on systems that merge audio + geometry
-- Exploring multimodal + audio-driven AI
-- Refining 3D technical workflows + real-time visualization
+- Advancing the 3D interactive portfolio
+- Expanding the Ink & Soul platform
+- Exploring 3D + AI workflow integration
+
+Current focus → **Portfolio + Ink & Soul + 3D/AI workflows**
 
 ---
 
-Interested in collaborations involving **AI tooling, real-time 3D, or audio-driven systems**.  
+Interested in collaborations around **AI tooling, real-time 3D, or audio-driven systems**.  
 Open to contract + remote opportunities.
 
-> Always building. Always refining...
-<img width="512" height="512" alt="erikgaren_logo" src="https://github.com/user-attachments/assets/2f2096fb-3560-4982-a0c0-2a9875b2f026" />
+> Always building. Always refining…
+> <p align="left">
+  <img width="160" alt="erikgaren_logo" src="https://github.com/user-attachments/assets/2f2096fb-3560-4982-a0c0-2a9875b2f026" /> </p>
+
+
+
