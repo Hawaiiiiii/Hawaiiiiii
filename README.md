@@ -1,11 +1,18 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/198fb307-a6c3-41e4-81dd-8fc8b486fc48" width="100%" alt="banner"/>
+</p>
+
 # 💪 Sup y'all — Erik here!
 
 Creative technologist working across **AI, automation, real-time interactive systems, and 3D computer graphics**.  
 I build tooling at the intersection of **audio, geometry, and human experience**, transforming complex signals into interactive digital systems.
 
-🐲 Portfolio → https://5g8vjhpdk1vb.space.minimax.io  
-🔗 LinkedIn → https://linkedin.com/in/erikgaren  
-📩 Email → daviderikgarciaarenas@gmail.com  
+<p>
+  <a href="https://linkedin.com/in/erikgaren"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"/></a>
+  <a href="https://5g8vjhpdk1vb.space.minimax.io"><img src="https://img.shields.io/badge/Portfolio-Online-green"/></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%203D%20%7C%20Automation-purple"/>
+</p>
+
 
 ---
 
@@ -83,4 +90,4 @@ Interested in collaborations involving **AI tooling, real-time 3D, or audio-driv
 Open to contract + remote opportunities.
 
 > Always building. Always refining...
-> <img width="512" height="512" alt="erikgaren_logo" src="https://github.com/user-attachments/assets/2f2096fb-3560-4982-a0c0-2a9875b2f026" />
+<img width="512" height="512" alt="erikgaren_logo" src="https://github.com/user-attachments/assets/2f2096fb-3560-4982-a0c0-2a9875b2f026" />
