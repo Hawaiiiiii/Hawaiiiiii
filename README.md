@@ -2,40 +2,29 @@
   <img src="https://github.com/user-attachments/assets/a25231bb-ba32-4c2a-b9c6-86c9f3bbd244" width="100%" alt="creative-tech-banner"/>
 </p>
 
-# Erik here! 👋
+<h3 align="center">David Erik García Arenas · <em>John Hawaii B. Luga</em></h3>
+<p align="center">software engineer — tools &amp; 3D graphics pipelines · Munich</p>
 
-**Software engineer — tools & 3D graphics pipelines** · Munich
-Also known as **John Hawaii B. Luga**. QA tooling for 3D pipelines by day; console-renderer reverse engineering and Blender by night.
-
-<p>
-  <a href="https://erikgaren.com"><img src="https://img.shields.io/badge/Portfolio-erikgaren.com-green"/></a>
-  <a href="https://linkedin.com/in/erikgaren"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"/></a>
-  <img src="https://img.shields.io/badge/Focus-Graphics%20%7C%20Tools%20%7C%20RE-purple"/>
+<p align="center">
+  <a href="https://erikgaren.com"><img src="https://img.shields.io/badge/erikgaren.com-the_website-4aa8ff?style=for-the-badge" alt="Website"/></a>
+  <a href="https://erikgaren.com/os"><img src="https://img.shields.io/badge/HawaiiOS-boot_it-0F6CBD?style=for-the-badge" alt="HawaiiOS"/></a>
+  <a href="https://erikgaren.com/play"><img src="https://img.shields.io/badge/The_World-insert_coin-E51400?style=for-the-badge" alt="The World"/></a>
+  <a href="https://www.linkedin.com/in/erikgaren/"><img src="https://img.shields.io/badge/LinkedIn-in%2Ferikgaren-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnHawaiiB-luga&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=444444" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHawaiiB-luga&layout=compact&theme=tokyonight&border_color=444444&langs_count=8" height="165">
+<p align="center">
+  <img src="https://erikgaren.com/gh-stats/api?username=JohnHawaiiB-luga&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0b1017&title_color=4aa8ff&text_color=9db0c6&icon_color=e51400" height="170" alt="GitHub stats"/>
+  <img src="https://erikgaren.com/gh-stats/api/top-langs/?username=JohnHawaiiB-luga&layout=compact&hide_border=true&bg_color=0b1017&title_color=4aa8ff&text_color=9db0c6&langs_count=8" height="170" alt="Top languages"/>
 </p>
 
-<!-- Live Discord presence — swap in the user id and uncomment:
-<img src="https://lanyard.cnrad.dev/api/DISCORD_USER_ID?theme=dark&borderRadius=6px" alt="Discord presence"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,qt,react,threejs,unity,blender,git,docker,linux&theme=dark" alt="Stack"/>
+</p>
+
+<!-- Live Discord presence — paste the user id and uncomment:
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_USER_ID?theme=dark&bg=0b1017&borderRadius=6px" alt="Discord presence"/>
+</p>
 -->
 
-## Now
-
-- **[HawaiiOS](https://github.com/JohnHawaiiB-luga/erikgaren-portfolio)** — my portfolio as a Windows Phone 8.1-style OS: live tiles over a 3D neon street, case studies with real captures, installable as an app. Live at **erikgaren.com**.
-- **RYU6Recomp** — rehosting a console demo binary natively on PC: Ghidra static analysis, GPU shader translation to SPIR-V, my own Vulkan renderer. Research; writeup on the site.
-- **[Sonic4Episode2](https://github.com/JohnHawaiiB-luga/Sonic4Episode2)** — format documentation and tools for the AliceNN engine's data files, toward a portable re-implementation.
-
-## Projects
-
-- **[RGGFramework](https://github.com/JohnHawaiiB-luga/RGGFramework)** — diagnostic overlay + mod runtime for Dragon Engine games · C++ · DX12 · MinHook
-- **[Ryūga Sound Studio](https://github.com/JohnHawaiiB-luga/ryuga-sound-studio)** — CRIWARE audio extraction toolkit for RGG titles · Python · C#
-- **[OR.BIS](https://github.com/CODIGOAFRX/ORBIS)** — real-time 3D audio visualizer, FFT/LUFS → geometry; presented to CRIWARE Japan
-- **[Ink & Soul](https://github.com/JohnHawaiiB-luga/Ink-Soul)** — booking + portfolio storefront · React · Supabase · Stripe
-- **FinanzIA** — AI-driven personal finance assistant · LangChain · n8n
-
-## Stack
-
-**C++ · Python · TypeScript · C#** — Vulkan · SPIR-V · RenderDoc · Three.js · Qt (PySide6) — Blender (mainly) · Maya · UE4 · Dragon Engine
+<p align="center"><sub>the stats above are served from my own server — the words live on <a href="https://erikgaren.com">the website</a></sub></p>
