@@ -2,95 +2,40 @@
   <img src="https://github.com/user-attachments/assets/a25231bb-ba32-4c2a-b9c6-86c9f3bbd244" width="100%" alt="creative-tech-banner"/>
 </p>
 
-# Erik here!👋
+# Erik here! 👋
 
-Creative technologist working across **AI, automation, real-time interactive systems, and 3D computer graphics**.  
-I build tooling at the intersection of **audio, geometry, and human experience**, transforming complex signals into interactive digital systems.
+**Software engineer — tools & 3D graphics pipelines** · Munich
+Also known as **John Hawaii B. Luga**. QA tooling for 3D pipelines by day; console-renderer reverse engineering and Blender by night.
 
 <p>
+  <a href="https://erikgaren.com"><img src="https://img.shields.io/badge/Portfolio-erikgaren.com-green"/></a>
   <a href="https://linkedin.com/in/erikgaren"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"/></a>
-  <a href="https://5g8vjhpdk1vb.space.minimax.io"><img src="https://img.shields.io/badge/Portfolio-Online-green"/></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%203D%20%7C%20Automation-purple"/>
+  <img src="https://img.shields.io/badge/Focus-Graphics%20%7C%20Tools%20%7C%20RE-purple"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Hawaiiiiii&layout=compact&theme=tokyonight&card_width=420&border_color=444444&langs_count=100&v=1)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnHawaiiB-luga&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=444444" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnHawaiiB-luga&layout=compact&theme=tokyonight&border_color=444444&langs_count=8" height="165">
+</p>
 
----
+<!-- Live Discord presence — swap in the user id and uncomment:
+<img src="https://lanyard.cnrad.dev/api/DISCORD_USER_ID?theme=dark&borderRadius=6px" alt="Discord presence"/>
+-->
 
-## 🔥 Focus Areas
-- AI engineering · Agents · RAG
-- Real-time 3D · audio-reactive systems
-- Workflow automation (n8n · LangChain)
-- Technical art · modeling · rendering
-- Game tech + modding (Dragon Engine · UE4 · Source)
-- Systems thinking
-- Cybersecurity fundamentals
+## Now
 
----
+- **[HawaiiOS](https://github.com/JohnHawaiiB-luga/erikgaren-portfolio)** — my portfolio as a Windows Phone 8.1-style OS: live tiles over a 3D neon street, case studies with real captures, installable as an app. Live at **erikgaren.com**.
+- **RYU6Recomp** — rehosting a console demo binary natively on PC: Ghidra static analysis, GPU shader translation to SPIR-V, my own Vulkan renderer. Research; writeup on the site.
+- **[Sonic4Episode2](https://github.com/JohnHawaiiB-luga/Sonic4Episode2)** — format documentation and tools for the AliceNN engine's data files, toward a portable re-implementation.
 
-## 🚀 Highlights
+## Projects
 
-### ErikGaren — 3D Interactive Portfolio · <sub>[repo](https://github.com/Hawaiiiiii/erikgaren-portfolio)</sub>  
-Immersive 3D environment with day/night themes, interactive instruments, and project showcases.  
-> Three.js · GSAP · Howler.js · SCSS · Vite
+- **[RGGFramework](https://github.com/JohnHawaiiB-luga/RGGFramework)** — diagnostic overlay + mod runtime for Dragon Engine games · C++ · DX12 · MinHook
+- **[Ryūga Sound Studio](https://github.com/JohnHawaiiB-luga/ryuga-sound-studio)** — CRIWARE audio extraction toolkit for RGG titles · Python · C#
+- **[OR.BIS](https://github.com/CODIGOAFRX/ORBIS)** — real-time 3D audio visualizer, FFT/LUFS → geometry; presented to CRIWARE Japan
+- **[Ink & Soul](https://github.com/JohnHawaiiB-luga/Ink-Soul)** — booking + portfolio storefront · React · Supabase · Stripe
+- **FinanzIA** — AI-driven personal finance assistant · LangChain · n8n
 
----
+## Stack
 
-### Ink & Soul — Studio Portfolio + Bookings · <sub>[repo](https://github.com/Hawaiiiiii/Ink-Soul)</sub>  
-Next.js storefront with booking + admin tooling.  
-> Next.js · Stripe · Supabase
-
----
-
-### OR.BIS — Real-Time 3D Audio Visualizer · <sub>[repo](https://github.com/CODIGOAFRX/proyecto_integrado_main)</sub>  
-FFT / LUFS → evolving 3D geometry for live + interactive contexts.  
-> Python · Three.js · CRIWARE ADX
-
----
-
-### Ryūga Sound Studio (龍雅サウンドスタジオ) — Audio Tooling *(in progress)* · <sub>[repo](https://github.com/Hawaiiiiii/ryuga-sound-studio)</sub>  
-Pipeline + extraction research for Like a Dragon / Yakuza titles (Dragon Engine).  
-> Python · C# · C++ · BepInEx
-
----
-
-### FinanzIA — AI-Driven Personal Finance Assistant  
-~80% workflow automation · 100/100 PageSpeed · cybersecurity-aware design.  
-> Python · JavaScript · LangChain · n8n · GPT-5
-
----
-
-## 🛠️ Core Stack
-
-**Languages**  
-Python · Java · JavaScript · C · C++ · C# · PHP
-
-**Frameworks / Tools**  
-LangChain · n8n · Docker · Playwright · Git/GitHub
-
-**3D + Engines**  
-Three.js · Blender · Maya · UE4 · Source Engine/SE2 · Dragon Engine
-
-**Web**  
-HTML5 · CSS
-
----
-
-## 📌 Currently
-- Advancing the 3D interactive portfolio
-- Expanding the Ink & Soul platform
-- Exploring 3D + AI workflow integration
-
-Current focus → **Portfolio + Ink & Soul + 3D/AI workflows**
-
----
-
-Interested in collaborations around **AI tooling, real-time 3D, or audio-driven systems**.  
-Open to contract + remote opportunities.
-
-> Always building. Always refining…
-<p align="right">
-  <img width="160" alt="erikgaren_logo" src="https://github.com/user-attachments/assets/2f2096fb-3560-4982-a0c0-2a9875b2f026" /> </p>
-
-
-
+**C++ · Python · TypeScript · C#** — Vulkan · SPIR-V · RenderDoc · Three.js · Qt (PySide6) — Blender (mainly) · Maya · UE4 · Dragon Engine
